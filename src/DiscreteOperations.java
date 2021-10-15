@@ -51,6 +51,8 @@ public void TestInheritance() {
 			isInOther = false;
 		}
 		
+		//comment out for demo
+		result.sort(null);
 		return result;
 	}
 	
