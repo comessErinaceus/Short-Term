@@ -1,2 +1,2 @@
-# PsudoCodeImplement
+# DataStructures
 Testing skills project.
