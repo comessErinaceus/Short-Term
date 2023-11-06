@@ -1,2 +1,2 @@
-# DataStructures
+# Short-Term
 Testing skills project.
